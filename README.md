@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gomri15
-- 👀 I’m interested in Python and testing software automation
-- 🌱 I’m currently how to design better code
-- 💞️ I’m looking to collaborate on anything that seems interesting 
-- 📫 How to reach me gomri15@gmail.com
+👋 Hi, I’m @gomri15!  
+🔧 **Experienced Python Developer:** Specializing in automation, testing frameworks, and cloud-based solutions.  
+📚 **Currently Learning:** Advanced system design, scalable API development, and best practices for clean code.  
+🚀 **Looking to Collaborate:** On backend development, cloud automation, and Python-based open-source projects.  
+💼 **Portfolio:** [Link to your portfolio or featured repository]  
+📫 **Contact:** gomri15@gmail.com | [LinkedIn Profile Link](https://www.linkedin.com/in/omri-golan-0aa8a8119/)
 
 <!---
 gomri15/gomri15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
